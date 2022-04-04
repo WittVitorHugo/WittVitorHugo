@@ -19,11 +19,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WittVitorHugo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vitor_Java" height="60" width="60" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Vitor_Java" height="45" width="45" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Vitor_Java" height="45" width="45" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg">
-  <img align="center" alt="Vitor_Java" height="45" width="45" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg">
-  <img align="center" alt="Vitor_Java" height="45" width="45" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img align="center" alt="Vitor_Java" height="45" width="45" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Java" height="60" width="60" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="45" width="45" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Dart" height="45" width="45" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg">
+  <img align="center" alt="Flutter" height="45" width="45" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg">
+  <img align="center" alt="HTML" height="45" width="45" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img align="center" alt="JS" height="45" width="45" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+</div>
+<div><br>
+  <a href="https://www.linkedin.com/in/vitor-hugo-w-4ba974116/">
+    <img align="center" alt="LinkedIn" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </div>
 
