@@ -26,7 +26,8 @@
   <img align="center" alt="HTML" height="45" width="45" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="JS" height="45" width="45" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 </div>
-<div><br>
+<hr>
+<div>
   <a href="https://www.linkedin.com/in/vitor-hugo-w-4ba974116/">
     <img align="center" alt="LinkedIn" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </div>
