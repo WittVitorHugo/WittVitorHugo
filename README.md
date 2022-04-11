@@ -9,7 +9,7 @@
 -->
 - 💻 Sou Engenheiro de Software
 - 🌱 Estou estudando Java e Spring Framework
-- 💼 Em busca de oportunidades como desenvolvedor Java
+- 💼 Em busca de oportunidades como desenvolvedor Java, Flutter ou PHP
 - 📫 Como me contatar: hugo.vitordamp@gmail.com
 - ⚡ Curiosidade: Toco vários instrumentos musicais
 
