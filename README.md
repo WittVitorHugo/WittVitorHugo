@@ -8,7 +8,7 @@
 - 😄 Pronouns: ...
 -->
 - 💻 Sou Engenheiro de Software
-- 🌱 Estou estudando Java e Spring Framework
+- 🌱 Estou estudando Java e PHP
 - 💼 Em busca de oportunidades como desenvolvedor Java, Flutter ou PHP
 - 📫 Como me contatar: hugo.vitordamp@gmail.com
 - ⚡ Curiosidade: Toco vários instrumentos musicais
