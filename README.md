@@ -22,6 +22,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="60" width="60" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="PHP" height="65" width="65" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="PostgreSQL" height="60" width="60" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Dart" height="45" width="45" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg">
   <img align="center" alt="Flutter" height="45" width="45" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg">
   <img align="center" alt="HTML" height="45" width="45" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
