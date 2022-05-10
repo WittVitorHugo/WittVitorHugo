@@ -9,7 +9,7 @@
 -->
 - 💻 Sou Engenheiro de Software
 - 🌱 Estou estudando Java, PHP e PostgreSQL
-- 💼 Em busca de oportunidades como desenvolvedor Java, Flutter ou PHP
+- 💼 Em busca de oportunidades como desenvolvedor
 - 📫 Como me contatar: hugo.vitordamp@gmail.com
 - ⚡ Curiosidade: Toco vários instrumentos musicais
 
