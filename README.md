@@ -8,7 +8,7 @@
 - 😄 Pronouns: ...
 -->
 - 💻 Sou Engenheiro de Software
-- 🌱 Estou estudando Java, Javascript, React
+- 🌱 Estou estudando Java Javascript, React
 - 💼 Em busca de oportunidades como desenvolvedor
 - 📫 Como me contatar: hugo.vitordamp@gmail.com
 - ⚡ Curiosidade: Toco vários instrumentos musicais
