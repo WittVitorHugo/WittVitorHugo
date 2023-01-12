@@ -15,7 +15,7 @@
 
 <div>
   <a href="https://github.com/WittVitorHugo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WittVitorHugo&layout=compact&langs_count=7&theme=aura"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WittVitorHugo&layout=compact&langs_count=7&theme=aura"/> -->
 </div>
 <h3>Tecnologias</h3>
 <div style="display: inline_block"><br>
