@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
--->
+
 - 💻 Sou Engenheiro de Software
 - 🌱 Estou estudando Java Javascript, React
 - 💼 Em busca de oportunidades como desenvolvedor
@@ -15,7 +15,7 @@
 
 <div>
   <a href="https://github.com/WittVitorHugo">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WittVitorHugo&layout=compact&langs_count=7&theme=aura"/> -->
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WittVitorHugo&layout=compact&langs_count=7&theme=aura"/> 
 </div>
 <h3>Tecnologias</h3>
 <div style="display: inline_block"><br>
@@ -33,3 +33,4 @@
     <img align="center" alt="LinkedIn" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </div>
 
+->
